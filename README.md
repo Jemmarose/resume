@@ -5,6 +5,7 @@
     <title> CURRICULUMN VITAE </title>
     </head>
     <body>
+        <img src="jemma.png">
         <body style="background-image:oldlace;">
         <hr>
         <table>
